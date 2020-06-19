@@ -2,4 +2,4 @@
 performing EDA with streamlit
 
 ## Clone this repo and change the directory 
-![](https://github.com/shravanadu/DenseNet_Deployment/blob/master/images/0.PNG)
+![](https://github.com/udaybhaskar002/Streamlit-EDA/blob/master/image1.PNG)
